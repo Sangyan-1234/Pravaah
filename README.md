@@ -96,7 +96,7 @@ streamlit run app.py
 
 
 
-\*\*Access at:\*\* http://localhost:8506
+\*\*Access at:\*\* http://localhost:8503
 
 
 
