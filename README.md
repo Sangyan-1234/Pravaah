@@ -96,7 +96,7 @@ streamlit run app.py
 
 
 
-\*\*Access at:\*\* https://pravaah-8ubxbo9e4ssm9okxtagnye.streamlit.app/
+\*\*Access at:\*\* (http://localhost:8503)
 
 
 
