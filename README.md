@@ -9,9 +9,13 @@ This project was developed by a team of 3 members as part of a competition focus
 
 ## My Contributions
 -Designed and implemented Digital Twin–based environmental simulation modules to model microplastic impact and water quality dynamics
+
 -Developed and trained Physics-Informed Neural Networks (PINN) for dissolved oxygen prediction by embedding physical constraints into the learning process
+
 -Implemented Explainable AI (XAI) components to interpret model predictions and visualize feature importance through the dashboard
+
 -Trained, validated, and converted models for deployment-ready integration within the Streamlit-based dashboard
+
 # Microplastic Detection & Water Quality Prediction System
 
 An AI-powered system for detecting microplastics, predicting water quality, and simulating environmental impacts using machine learning, deep learning, and physics-informed models.
