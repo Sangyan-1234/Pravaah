@@ -177,8 +177,8 @@ pravaah/
 
 ## Contact
 
-* Email: [bt24eci032@iiitn.ac.in](mailto:bt24eci032@iiitn.ac.in)
-* GitHub: [https://github.com/Aadrika2106](https://github.com/Aadrika2106)
+* Email: [bt24ece128@iiitn.ac.in](mailto:bt24ece128@iiitn.ac.in)
+* GitHub: [https://github.com/Sangyan-1234](https://github.com/Sangyan-1234)
 
 
 If you find this project useful, consider starring the repository.
