@@ -252,7 +252,7 @@ If you find this project useful, consider starring the repository.
 
 \# Clone repository
 
-git clone https://github.com/Sangyab-1234/Pravaah.git
+git clone https://github.com/Sangyan-1234/Pravaah.git
 
 cd Pravaah
 
